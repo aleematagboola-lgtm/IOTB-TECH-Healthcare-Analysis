@@ -16,7 +16,8 @@ The analysis was conducted using Microsoft Excel to support data-driven decision
 Project Source
 
 
-\[Download the Excel Analysis File](IOTB%20TECH%20HEALTHCARE%20DATASET.xlsx)
+\
+[Download the Excel Analysis File](IOTB%20TECH%20HEALTHCARE%20DATASET.xlsx)
 
 
 
@@ -159,7 +160,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Patient Analysis](images/patient\_analysis.png)
+![Patient Analysis](./Images/patient\_analysis.png)
 
 
 
@@ -169,7 +170,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Medical Condition Analysis](images/medical\_condition\_analysis.png)
+![Medical Condition Analysis](./Images/medical\_condition\_analysis.png)
 
 
 
@@ -177,7 +178,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Admission Analysis](images/admission\_analysis.png)
+![Admission Analysis](./Images/admission\_analysis.png)
 
 
 
@@ -187,7 +188,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Medication Analysis](images/medication\_analysis.png)
+![Medication Analysis](./Images/medication\_analysis.png)
 
 
 
@@ -197,7 +198,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Revenue \& Billing Analysis](images/revenue\_\&\_billing\_analysis.png)
+![Revenue \& Billing Analysis](./Images/revenue\_\&\_billing\_analysis.png)
 
 
 
@@ -207,7 +208,7 @@ Billing amounts across Emergency, Elective, and Urgent admissions were relativel
 
 
 
-!\[Test Result Analysis](images/test\_result\_analysis.png)
+![Test Result Analysis](./Images/test\_result\_analysis.png)
 
 
 
