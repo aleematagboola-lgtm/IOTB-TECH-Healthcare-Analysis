@@ -15,11 +15,11 @@ Project Dashboards
 
 This project features three distinct dashboard views tailored for different stakeholders within the healthcare organization.
 
-![Executive Overview Dashboard](images/Executive_Overview.png)
+![Executive Overview Dashboard](images/Executive%20Overview.png)
 
-![Clinical Insights Dashboard](images/Clinical_Insights.png)
+![Clinical Insights Dashboard](images/Clinical%20Insights.png))
 
-![Operational Performance Dashboard](images/Operational_Performance.png)
+![Operational Performance Dashboard](images/Operational%20Performance.png)
 
 
 Project Source
