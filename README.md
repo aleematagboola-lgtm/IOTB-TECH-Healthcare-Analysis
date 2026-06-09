@@ -1,7 +1,6 @@
 **IOTB TECH Hospital: Healthcare Data Analytics Portfolio**
 
 
-
 **Project Overview**
 
 
@@ -9,8 +8,18 @@
 This project involves a comprehensive end-to-end data analysis of the IOTB TECH Healthcare Dataset, consisting of over 54,000 patient records. The objective of the analysis was to uncover actionable insights related to hospital operations, patient demographics, billing performance, admission trends, and clinical outcomes.
 
 
-
 The analysis was conducted using Microsoft Excel to support data-driven decision-making and identify opportunities for operational improvement within the healthcare system.
+
+
+Project Dashboards
+
+This project features three distinct dashboard views tailored for different stakeholders within the healthcare organization.
+
+![Executive Overview Dashboard](images/Executive_Overview.png)
+
+![Clinical Insights Dashboard](images/Clinical_Insights.png)
+
+![Operational Performance Dashboard](images/Operational_Performance.png)
 
 
 Project Source
