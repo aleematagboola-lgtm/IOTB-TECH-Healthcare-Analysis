@@ -11,7 +11,7 @@ This project involves a comprehensive end-to-end data analysis of the IOTB TECH 
 The analysis was conducted using Microsoft Excel to support data-driven decision-making and identify opportunities for operational improvement within the healthcare system.
 
 
-Project Dashboards
+**Project Dashboards**
 
 This project features three distinct dashboard views tailored for different stakeholders within the healthcare organization.
 
@@ -22,7 +22,8 @@ This project features three distinct dashboard views tailored for different stak
 ![Operational Performance Dashboard](Images/Operational_Performance.png)
 
 
-Project Source
+
+**Project Source**
 
 
 \
